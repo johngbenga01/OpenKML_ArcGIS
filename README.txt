@@ -1,3 +1,9 @@
+This python script works specifically for export a feature in ArcGIS and opening it as KML in Google Earth Pro Application.
+
+The implementation in ArcGIS Pro is available with the python script "OpenKmlPro.py" 
+
+
+
 This is a stub project created by the ArcGIS Desktop Python AddIn Wizard.
 
 MANIFEST
